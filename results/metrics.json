@@ -1,0 +1,20 @@
+{
+  "Radar Only": {
+    "rmse": 0.1122795751126018,
+    "false_track_frames": 0.0,
+    "missed_target_frames": 80.0,
+    "mean_matched": 2.279279279279279
+  },
+  "Naive Fusion": {
+    "rmse": 0.24765116748833682,
+    "false_track_frames": 92.0,
+    "missed_target_frames": 0.0,
+    "mean_matched": 3.0
+  },
+  "Latency-Aware Fusion": {
+    "rmse": 0.08877904517191855,
+    "false_track_frames": 0.0,
+    "missed_target_frames": 0.0,
+    "mean_matched": 3.0
+  }
+}
